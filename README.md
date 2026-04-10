@@ -154,12 +154,12 @@ constraints/top.xdc
 
 ## Дорожная карта
 
-* [ ] [Завершить базовую RTL-реализацию](https://github.com/Galahad47/AI-SAR-on-fpga/docs/01_bazovaya_rtl_realizatsiya.md)
-* [ ] [Добавить полное тестовое покрытие](https://github.com/Galahad47/AI-SAR-on-fpga/docs/02_testovoe_pokrytie.md)
-* [ ] [Оптимизировать pipeline](https://github.com/Galahad47/AI-SAR-on-fpga/docs/03_optimizatsiya_pipeline.md)
-* [ ] [Улучшить timing closure](https://github.com/Galahad47/AI-SAR-on-fpga/docs/04_timing_closure.md)
-* [ ] [Добавить обработку через AXI DMA](https://github.com/Galahad47/AI-SAR-on-fpga/docs/05_axi_dma.md)
-* [ ] [Подготовить демонстрационный пример](https://github.com/Galahad47/AI-SAR-on-fpga/docs/06_demo_example.md)
+* [ ] [Завершить базовую RTL-реализацию](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/01_bazovaya_rtl_realizatsiya.md)
+* [ ] [Добавить полное тестовое покрытие](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/02_testovoe_pokrytie.md)
+* [ ] [Оптимизировать pipeline](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/03_optimizatsiya_pipeline.md)
+* [ ] [Улучшить timing closure](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/04_timing_closure.md)
+* [ ] [Добавить обработку через AXI DMA](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/05_axi_dma.md)
+* [ ] [Подготовить демонстрационный пример](https://github.com/Galahad47/AI-SAR-on-fpga/tree/main/docs/06_demo_example.md)
 
 ## Вклад
 
